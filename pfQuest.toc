@@ -1,9 +1,9 @@
 ## Interface: 11200
-## Title: |cff33ffccpf|cffffffffQuest
+## Title: |cff33ffccpf|cffffffffQuest |cff00ffff[USS Enterprise Edition]|r
 ## Author: Shagu
 ## Notes: A Questhelper and Database
 ## Notes-ruRU: Облегченный помощник заданий и база данных
-## Version: 7.0.1
+## Version: 7.0.1-1701-1
 ## OptionalDeps: pfUI
 ## SavedVariables: pfQuest_questcache
 ## SavedVariablesPerCharacter: pfQuest_config, pfBrowser_fav, pfQuest_history, pfQuest_colors, pfQuest_server, pfQuest_track
